@@ -1,0 +1,29 @@
+---
+title: "Jinlong Ru"
+comments: false
+image: imgs/profile.jpg
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=xB64MDUAAAAJ
+    - icon: github
+      text: GitHub
+      href: https://github.com/rujinlong
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/JinlongRu
+---
+
+
+Hi! My name is Jinlong Ru. I am a PhD researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research topic focuses on the role of bacteriophages and their effects on human health.
+
+## Education
+
+Technical University of Munich • Germany \| PhD in Bioinformatics \| Oct 2015 -
+
+Northwest A&F University • China \| M.S in Bioinformatics \| Sept 2012 - June 2015
+
+Northwest A&F University • China \| B.A in Biotechnology \| Sept 2008 - June 2012

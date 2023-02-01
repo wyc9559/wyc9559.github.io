@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Jinlong Ru"
+  navbar:
+    background: "#536878"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: tools.qmd
+        text: Software & Database
+  page-footer:
+    left: "© 2019-2023, Jinlong Ru <a rel='me' href='https://github.com/rujinlong'></a>"
+    right:
+      - icon: github
+        href: https://github.com/rujinlong
+      - icon: twitter
+        href: https://twitter.com/JinlongRu
+    background: "#536878"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
