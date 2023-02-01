@@ -7,14 +7,12 @@ website:
   navbar:
     background: "#536878"
     left:
-      - href: index.qmd
-        text: Home
       - href: publications.qmd
         text: Publications
       - href: tools.qmd
         text: Software & Database
   page-footer:
-    left: "© 2019-2023, Jinlong Ru <a rel='me' href='https://github.com/rujinlong'></a>"
+    left: "© 2023 personal website. Powered by <a href='https://quarto.org/'>Quarto</a>."
     right:
       - icon: github
         href: https://github.com/rujinlong
