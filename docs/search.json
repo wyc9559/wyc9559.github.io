@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "myweb",
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Jinlong Ru",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "ViroProfiler: a containerized bioinformatics pipeline for viral metagenomic data analysis\nTPD: a computational pipeline for therapeutic phage discovery from prophages"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "tools.html#database",
+    "href": "tools.html#database",
+    "title": "Jinlong Ru",
+    "section": "Database",
+    "text": "Database\n\nTCMSP: a database of systems pharmacology for drug discovery from herbal medicines\nDeepsmirUD_web: a database of predicted small molecule-mediated regulatory effects on miRNA expression"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jinlong Ru",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! My name is Jinlong Ru. I am a PhD researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research topic focuses on the role of bacteriophages and their effects on human health."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jinlong Ru",
+    "section": "Education",
+    "text": "Education\nTechnical University of Munich • Germany | PhD in Bioinformatics | Oct 2015 -\nNorthwest A&F University • China | M.S in Bioinformatics | Sept 2012 - June 2015\nNorthwest A&F University • China | B.A in Biotechnology | Sept 2008 - June 2012"
   }
 ]

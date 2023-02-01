@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Jinlong Ru</title>
+<title>Jinlong Ru -</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -78,13 +79,13 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
+    <a class="nav-link" href="./index.html">Home</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html">Publications</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tools.html">Software &amp; Database</a>
+    <a class="nav-link active" href="./tools.html" aria-current="page">Software &amp; Database</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -98,43 +99,28 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="imgs/profile.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Jinlong Ru</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header><main class="content" id="quarto-document-content">
-<p>Hi! My name is Jinlong Ru. I am a PhD researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research topic focuses on the role of bacteriophages and their effects on human health.</p>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<p>Technical University of Munich • Germany | PhD in Bioinformatics | Oct 2015 -</p>
-<p>Northwest A&amp;F University • China | M.S in Bioinformatics | Sept 2012 - June 2015</p>
-<p>Northwest A&amp;F University • China | B.A in Biotechnology | Sept 2008 - June 2012</p>
+<main class="content" id="quarto-document-content">
+
+
+
+<section id="software" class="level2">
+<h2 class="anchored" data-anchor-id="software">Software</h2>
+<ol type="1">
+<li><p><a href="https://github.com/deng-lab/viroprofiler">ViroProfiler</a>: a containerized bioinformatics pipeline for viral metagenomic data analysis</p></li>
+<li><p><a href="https://github.com/rujinlong/TPD">TPD</a>: a computational pipeline for therapeutic phage discovery from prophages</p></li>
+</ol>
+</section>
+<section id="database" class="level2">
+<h2 class="anchored" data-anchor-id="database">Database</h2>
+<ol type="1">
+<li><p><a href="https://old.tcmsp-e.com/tcmsp.php">TCMSP</a>: a database of systems pharmacology for drug discovery from herbal medicines</p></li>
+<li><p><a href="https://github.com/rujinlong/DeepsmirUD_web">DeepsmirUD_web</a>: a database of predicted small molecule-mediated regulatory effects on miRNA expression</p></li>
+</ol>
 
 
 </section>
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://scholar.google.com/citations?user=xB64MDUAAAAJ" class="about-link">
-    <i class="bi bi-google"></i>
-     <span class="about-link-text">Google Scholar</span>
-  </a>
-  <a href="https://github.com/rujinlong" class="about-link">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="https://twitter.com/JinlongRu" class="about-link">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-</div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -155,6 +141,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
