@@ -1,5 +1,5 @@
 ---
-title: "Jinlong Ru"
+title: "Tong Wu"
 comments: false
 image: imgs/profile.jpg
 toc: false
@@ -18,7 +18,7 @@ about:
 ---
 
 
-Hi! My name is Jinlong Ru. I am a PhD researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research topic focuses on the role of bacteriophages and their effects on human health.
+Hi! My name is Tong Wu. I am a PhD researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research topic focuses on the role of bacteriophages and their effects on human health.
 
 ## Education
 
