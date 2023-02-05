@@ -9,8 +9,8 @@ website:
     left:
       - href: publications.qmd
         text: Publications
-      - href: tools.qmd
-        text: Software & Database
+      - href: cv.qmd
+        text: CV
   page-footer:
     left: "© 2023 personal website. Powered by <a href='https://quarto.org/'>Quarto</a>."
     right:
