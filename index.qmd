@@ -8,22 +8,22 @@ about:
   links:
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=xB64MDUAAAAJ
+      href: https://scholar.google.de/citations?user=BUk-RMkAAAAJ&hl
     - icon: github
       text: GitHub
-      href: https://github.com/rujinlong
+      href: https://github.com/wyc9559/
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/JinlongRu
+      href: https://twitter.com/Tongwu9559
 ---
 
 
-Hi! My name is Tong Wu. I am a PhD researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research topic focuses on the role of bacteriophages and their effects on human health.
+Hey! My name is Tong Wu. I am a PhD candidate at Helmholtz Zentrum München (HMGU). Currently, we mainly focus on the links between human blood metabolomics and the gut microbiome. Leveraging cutting-edge technology, we aim to determine key microbial-affected metabolites and link them to multiple host factors, including age, diet, and healthy condition. Specifically, we are interested in applying the links above to the Alzheimer’s disease case. Our ultimate goal is elaborate on the role of the hypothesis gut-liver-brain axis in Alzheimer’s disease cases.
 
 ## Education
 
-Technical University of Munich • Germany \| PhD in Bioinformatics \| Oct 2015 -
+Helmholtz Zentrum München • Germany \| PhD in Statistics \| Nov 2020 -
 
-Northwest A&F University • China \| M.S in Bioinformatics \| Sept 2012 - June 2015
+Jiangnan University • China \| M.E in Food science and engineering  \| Sept 2017 - June 2020
 
-Northwest A&F University • China \| B.A in Biotechnology \| Sept 2008 - June 2012
+Northeast Agricultural University • China \| B.E in Dairy engineering \| Sept 2013 - June 2017

@@ -3,4 +3,12 @@ title: ""
 toc: false
 ---
 
-### See my [google scholar](https://scholar.google.com/citations?user=xB64MDUAAAAJ) for a full list of publications.
+### See my [google scholar]( https://scholar.google.de/citations?user=BUk-RMkAAAAJ&hl) for a full list of publications.
+
+[1] Wu, T. ,  Wang, H. ,  Lu, W. ,  Zhai, Q. , &  Chen, W. . (2020). Potential of gut microbiome for detection of autism spectrum disorder. Microbial Pathogenesis, 149(Suppl 1), 104568.
+
+[2] Chen, Y. ,  Wang, H. ,  Lu, W. ,  Wu, T. ,  Yuan, W. , &  Zhu, J. , et al. Human gut microbiome aging clocks based on taxonomic and functional signatures through multi-view learning.
+
+[3] Chen, Y. ,  Wu, T. ,  Lu, W. ,  Yuan, W. ,  Pan, M. , &  Lee, Y. K. , et al. (2021). Predicting the role of the human gut microbiome in constipation using machine-learning methods: a meta-analysis. Microorganisms, 9(10), 2149-.
+
+[4] Wörheide, M. A., Krumsiek, J., Nataf, S., Nho, K., Greenwood, A. K., Wu, T., ... & Arnold, M. (2021). An integrated molecular atlas of Alzheimer’s disease. medRxiv, 2021-09.

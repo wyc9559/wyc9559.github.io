@@ -18,20 +18,20 @@
     "href": "index.html",
     "title": "Tong Wu",
     "section": "",
-    "text": "Hi! My name is Tong Wu. I am a PhD researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research topic focuses on the role of bacteriophages and their effects on human health."
+    "text": "Hey! My name is Tong Wu. I am a PhD candidate at Helmholtz Zentrum München (HMGU). Currently, we mainly focus on the links between human blood metabolomics and the gut microbiome. Leveraging cutting-edge technology, we aim to determine key microbial-affected metabolites and link them to multiple host factors, including age, diet, and healthy condition. Specifically, we are interested in applying the links above to the Alzheimer’s disease case. Our ultimate goal is elaborate on the role of the hypothesis gut-liver-brain axis in Alzheimer’s disease cases."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Tong Wu",
     "section": "Education",
-    "text": "Education\nTechnical University of Munich • Germany | PhD in Bioinformatics | Oct 2015 -\nNorthwest A&F University • China | M.S in Bioinformatics | Sept 2012 - June 2015\nNorthwest A&F University • China | B.A in Biotechnology | Sept 2008 - June 2012"
+    "text": "Education\nHelmholtz Zentrum München • Germany | PhD in Statistics | Nov 2020 -\nJiangnan University • China | M.E in Food science and engineering | Sept 2017 - June 2020\nNortheast Agricultural University • China | B.E in Dairy engineering | Sept 2013 - June 2017"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Tong Wu",
     "section": "",
-    "text": "See my google scholar for a full list of publications."
+    "text": "See my google scholar for a full list of publications.\n[1] Wu, T. , Wang, H. , Lu, W. , Zhai, Q. , & Chen, W. . (2020). Potential of gut microbiome for detection of autism spectrum disorder. Microbial Pathogenesis, 149(Suppl 1), 104568.\n[2] Chen, Y. , Wang, H. , Lu, W. , Wu, T. , Yuan, W. , & Zhu, J. , et al. Human gut microbiome aging clocks based on taxonomic and functional signatures through multi-view learning.\n[3] Chen, Y. , Wu, T. , Lu, W. , Yuan, W. , Pan, M. , & Lee, Y. K. , et al. (2021). Predicting the role of the human gut microbiome in constipation using machine-learning methods: a meta-analysis. Microorganisms, 9(10), 2149-.\n[4] Wörheide, M. A., Krumsiek, J., Nataf, S., Nho, K., Greenwood, A. K., Wu, T., … & Arnold, M. (2021). An integrated molecular atlas of Alzheimer’s disease. medRxiv, 2021-09."
   }
 ]
